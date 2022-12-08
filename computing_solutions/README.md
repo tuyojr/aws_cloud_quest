@@ -9,4 +9,3 @@
 ### SOLUTIONS ARCHITECTURE
 
 ![solution_architecture](https://github.com/tuyojr/aws_cloud_quest/blob/main/images/computing_solutions.png)
-
