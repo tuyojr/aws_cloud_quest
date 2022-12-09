@@ -5,6 +5,7 @@
 ## TASk
 
 > Configure a price estimate for an architecture that uses a variable amount of EC2 instances based on peak usage time.
+> `DIY:` Change the EC2 instance type to t2.micro and generate a new price estimate URL.
 
 ### SOLUTION ARCHITECTURE
 
