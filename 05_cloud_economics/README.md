@@ -11,4 +11,5 @@
 ### SOLUTION ARCHITECTURE
 
 [AWS Pricing Calculator](https://calculator.aws)
+
 ![solutions_architecture](https://github.com/tuyojr/aws_cloud_quest/blob/main/images/cloud_economics.png)
